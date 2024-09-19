@@ -1,6 +1,10 @@
 Raport defektów stworzony został na podstawie strony internetowej https://academybugs.com/find-bugs/#
 
 
+
+
+
+
 Raport defektów zapiera:
 
 ID  
