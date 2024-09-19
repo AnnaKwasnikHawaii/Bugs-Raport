@@ -3,9 +3,9 @@ Raport defektów stworzony został na podstawie strony internetowej https://acad
 
 Raport defektów zapiera:
 
-ID
-Opis defektu
-Kroki prowadzące do odtworzenia błędu
+ID  
+Opis defektu   
+Kroki prowadzące do odtworzenia błędu  
 Rezultat aktualny
 Rezultat oczekiwany
 System operacyjny
